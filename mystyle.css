@@ -9,3 +9,23 @@ body {
 p {
     color: rgb(58, 114, 243);
 }
+
+#aboutp {
+    background-image: url(mybackground.jpg);
+    color: rgb(0, 0, 0)
+}
+.constrained-paragraph {
+    max-width: 800px;
+}
+.float-left {
+    float: left;
+    margin-right: 5px; 
+  }
+  
+  
+  
+
+  .constrained-body {
+    max-width: 800px;
+
+  }
